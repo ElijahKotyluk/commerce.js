@@ -4,6 +4,7 @@
   "main": "lib/index.js",
   "description": "Easy to use JavaScript SDK for managing carts and selling products from your Chec store",
   "homepage": "https://commercejs.com",
+  "typings": "./index.d.ts",
   "keywords": [
     "commerce",
     "shop",
